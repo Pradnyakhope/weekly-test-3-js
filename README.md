@@ -24,4 +24,6 @@ Increase Quantity: Click the "+" button next to a product in the cart to increas
 Decrease Quantity: Click the "-" button next to a product in the cart to decrease its quantity. If the quantity reaches zero, the product will be removed from the cart.
 View Total Price: The total price of all products in the cart is displayed at the bottom of the cart.
 
+Please refer this hosted link:  https://pradnyakhope.github.io/weekly-test-3-js/
+
 
